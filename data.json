@@ -5,10 +5,9 @@
       "Europe",
       "Children are 50% free on Gala Meals when sharing with 2 adults. But other than this, they also have meal discounts which % value varies per meal plan. <br/>
       Loader loaded all as % discounts with 50 & 91 priorities. But, missed to realize that the 50% discount that is supposed to apply on Gala supplement only is also being applied on normal board supplements.",
-      ,
       "Restrictions being loaded as % discount will instruct the system to deduct the same % on: all rates/supplements loaded adjacent to its adjustments (whether apply to room or board AND loaded under adult, child or room adjustments); and all criteria with priority that is lower than the % discount restriction. <br/>
       - Loading the exact amount of reduction is the other workaround if loading 2 different % discounts at the same time is not possible. <br/>
-- Test Availability is also part of the loading process. Testing guidelines presented in Loading-Approving Checklist must be strictly followed.",
+      - Test Availability is also part of the loading process. Testing guidelines presented in Loading-Approving Checklist must be strictly followed.",
       "16 June 2021",
       "Email",
       "Europe Leads",
