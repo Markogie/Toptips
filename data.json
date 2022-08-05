@@ -5959,25 +5959,551 @@
       "Contract and Reservation Details",
       "'The computation for 1+1 is (0-1 yrs old= 1PP rate+30%Single use fee) and (2-12yrs old=1PPrate+1PP rate with 30% discount)'",
       "19 July 2019"
+    ],
+    [
+    "Europe",
+      "Zentral Center Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Vincci Tenerife Golf",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Vincci Seleccion La Plantación Del Sur",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Vincci Seleccion Estrella Del Mar",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Villa Cortes Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Villa Adeje Beach Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "The Suites At Beverly Hills",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "The Ritz-Carlton, Abama",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Stella Polaris Oro Blanco",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Stella Polaris Marola Portosin",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Sheraton La Caleta Gran Luxe Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Sheraton Fuerteventura Beach Golf And Spa Resort Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Roca Nivaria Hotell",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Regency Torviscas Apartments And Suites",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Paraiso Del Sol Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Paradero Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Panoramica Heights",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Oasis Village",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Oasis Dunas",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Mediterranean Palace Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Maxorata Beach Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Las Piramides Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Playa Park Club Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Las Marismas De Corralejo Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Laguna Park Ii",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Laguna Park I Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "KN Matas Blancas (Adults Only)",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Jardines De Nivaria Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Jardin Tropical Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Hotel Isabel (Ex. Isabel Family Hotel & Apartments)",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Hg Tenerife Sur Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "HG Lomo Blanco Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Hg Cristian Sur Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Green Garden Resort And Suites",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Grand Hotel Callao Sport",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Gran Oasis Resort",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Gf Victoria",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "GF Fanabe (Ex. Hotel Fanabe Costa Sur)",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Fuentepark Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Elba Palace Golf & Vital Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "El Duque Aparthotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Dunas Club Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Cotillo Beach Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Costa Caleta Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Costa Adeje Gran Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Coral Suites & Spa",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Coral Ocean View",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Coral Los Alisios",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Coral Compostela Beach",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Coral California",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Compostela Beach Golf Club",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Columbus Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Colon Guanahami Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Club Riu Buena Vista Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Cleopatra Palace Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Castillo Playa Bungalows",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Casthotels Fuertesol Bungalows",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Broncemar Beach",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Botanico Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Bahia Del Duque",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Arenas Del Mar Beach And Spa Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Arena Suite Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Arena Beach",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Andorra Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Aguamarina Golf Hotel",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Aguamarina Golf Apartments",
+      "Offer with MLOS lower than contracted rate",
+      "Base Rate's Date Restrictions",
+      "Ok to lower down the contracted minimum stay for us to load the offer, applicable only during offer period.",
+      "13 August 2019"
+    ],
+    [
+    "Europe",
+      "Vincci Tenerife Golf",
+      "Offers restrictions",
+      "Restrictions for Offers and Promotions",
+      "For any withdrawal of new offer, please put back the contracted FNOs.Please take into account that we can only put back the contracted free nights offer on the dates where it is applicable as per contract.",
+      "08 July 2019"
+    ],
+    [
+    "Europe",
+      "Internacional II Apartments",
+      "Stop Sale/Closed out",
+      "Inventory",
+      "Do not close the allocation for Superior room unless instructed by the Ileana",
+      "08 July 2019"
     ]
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
